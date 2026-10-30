@@ -1,5 +1,5 @@
 context:
-  version: "3.0.4"
+  version: "3.0.5"
 
 package:
   name: minijinja-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mitsuhiko/minijinja/archive/refs/tags/${{ version }}.tar.gz
-  sha256: c200618aee830aeee4581a6fd92232ccd248d7371170339553caa19733bfc1c4
+  sha256: 38c1e39d7a25dbdb507a7badd76c21157ef9e7c86cf666a5861c77140b83a139
 
 build:
   number: 0
